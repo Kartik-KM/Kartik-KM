@@ -33,7 +33,7 @@ From pixels to processors, I speak the language of tech. Need a translator for y
 
 <a href="http://www.github.com/Kartik-KM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik-KM&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4178e949665279.560862a568876.gif" alt="GitHub Profile Image" title="Your Image Title" align="right">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4178e949665279.560862a568876.gif" alt="GitHub Profile Image" title="Your Image Title" align="right" width= "400">
 
 <a href="https://github.com/Kartik-KM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-KM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
