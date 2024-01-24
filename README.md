@@ -12,7 +12,7 @@ From pixels to processors, I speak the language of tech. Need a translator for y
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Cloud & Devops based Projects
 * ⚡  My code is cleaner than Alfred's Batcave. Don't be a Penguin, hire me for your next project.
-<img src="https://media1.tenor.com/m/8jy0sMlofS0AAAAC/evil-laugh-batman.gif" alt="Evil Laugh Batman GIF" align="right" width="500">
+<img src="https://media1.tenor.com/m/8jy0sMlofS0AAAAC/evil-laugh-batman.gif" alt="Evil Laugh Batman GIF" align="right" width="400">
 
 ### Skills
 
