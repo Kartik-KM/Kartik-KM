@@ -12,6 +12,7 @@ From pixels to processors, I speak the language of tech. Need a translator for y
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Cloud & Devops based Projects
 * ⚡  My code is cleaner than Alfred's Batcave. Don't be a Penguin, hire me for your next project.
+* img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=Gq2H7xyZ&id=9C0880616432A0C69E3FCDD40D6694E57A74ACC6&thid=OIP.Gq2H7xyZr59xTJKslISqIwHaE8&mediaurl=https%3a%2f%2fmedia.tenor.co%2fimages%2f1aad87ef1c99af9f714c92ac9484aa23%2fraw&exph=300&expw=450&q=mbatman+gif&simid=608011054429459096&FORM=IRPRST&ck=5A6DE975FEF026D06E89CFC8D582F4C3&selectedIndex=146&itb=0&ajaxhist=0&ajaxserp=0"
 
 ### Skills
 
